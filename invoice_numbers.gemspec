@@ -1,5 +1,3 @@
-require 'rake'
-
 Gem::Specification.new do |s|
   s.name             = 'invoice_numbers'
   s.version          = '0.1.1'
